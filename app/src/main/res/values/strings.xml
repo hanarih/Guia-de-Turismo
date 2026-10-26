@@ -1,0 +1,15 @@
+<resources>
+    <string name="nome">Guia de turismo</string>
+    <string name="titulo">Bem-vindo ao Guia de Turismo</string>
+    <string name="subtitulo">Encontre seu próximo destino na lista abaixo!</string>
+    <string name="credtios">Desenvolvido por Larissa Mari Hanada</string>
+
+    <string name="pacote">Pacote de Viagem</string>
+    <string name="hotel">Hospedagem</string>
+    <string name="telefone">Telefone</string>
+
+    <string name="btnComoChegar">Como Chegar (Maps)</string>
+    <string name="btEmail">Mandar Email</string>
+    <string name="btnVoltar">Voltar</string>
+
+</resources>
